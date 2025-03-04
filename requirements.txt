@@ -1,0 +1,8 @@
+streamlit
+pandas
+matplotlib
+scikit-learn
+statsmodels
+prophet
+numpy
+os-sys
