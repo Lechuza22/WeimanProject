@@ -53,6 +53,7 @@ weiman_project/ │── app.py # Código principal en Streamlit │── arch
 3. **Ejecutar la aplicación:**
    ```sh
      streamlit run app.py
+4. **Ver en Streamlit:** https://weimansolutions-nwvcyzrb5e6mbxxv3l4qm7.streamlit.app/
 
 ## Resultados y Aplicaciones
 
